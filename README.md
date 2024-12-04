@@ -1,4 +1,4 @@
-# tech-challenge4-modelo-preditivo-preco-petroleo
+# Dashboard Variação do Preço do Pretóleo Brent (LINK STREAMLIT)
 
 ### O problema
 Você foi contratado(a) para uma consultoria, e seu trabalho envolve analisar os dados de preço do petróleo brent, que pode ser encontrado no site do ipea. Essa base de dados histórica envolve duas colunas: data e preço (em dólares).
@@ -17,3 +17,4 @@ Um grande cliente do segmento pediu para que a consultoria desenvolvesse um dash
 • Faça um MVP do seu modelo em produção utilizando o Streamlit.
 
 ### Link do Streamlit
+https://tech-challenge4-modelo-preditivo-preco-petroleo-nwqwpebpc6njwy.streamlit.app/
