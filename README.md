@@ -1,4 +1,4 @@
-# Dashboard - Variação do Preço do PetRóleo Brent (LINK STREAMLIT)
+# Dashboard - Variação do Preço do Petróleo Brent (LINK STREAMLIT)
 
 ### O problema
 Você foi contratado(a) para uma consultoria, e seu trabalho envolve analisar os dados de preço do petróleo brent, que pode ser encontrado no site do ipea. Essa base de dados histórica envolve duas colunas: data e preço (em dólares).
